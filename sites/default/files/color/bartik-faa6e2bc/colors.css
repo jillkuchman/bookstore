@@ -22,13 +22,13 @@ body.overlay {
   border-bottom: 1px solid #fffdf7;
 }
 #header {
-  background-color: #593662;
-  background-image: -moz-linear-gradient(top, #4c1c58 0%, #593662 100%);
-  background-image: -ms-linear-gradient(top, #4c1c58 0%, #593662 100%);
-  background-image: -o-linear-gradient(top, #4c1c58 0%, #593662 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4c1c58), color-stop(1, #593662));
-  background-image: -webkit-linear-gradient(top, #4c1c58 0%, #593662 100%);
-  background-image: linear-gradient(top, #4c1c58 0%, #593662 100%);
+  background-color: #ffd7a6;
+  background-image: -moz-linear-gradient(top, #c78c45 0%, #ffd7a6 100%);
+  background-image: -ms-linear-gradient(top, #c78c45 0%, #ffd7a6 100%);
+  background-image: -o-linear-gradient(top, #c78c45 0%, #ffd7a6 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #c78c45), color-stop(1, #ffd7a6));
+  background-image: -webkit-linear-gradient(top, #c78c45 0%, #ffd7a6 100%);
+  background-image: linear-gradient(top, #c78c45 0%, #ffd7a6 100%);
 }
 a {
   color: #9d4040;
@@ -54,5 +54,5 @@ a:active {
 #name-and-slogan,
 #name-and-slogan a,
 #secondary-menu-links li a {
-  color: #ffffff;
+  color: #000000;
 }
