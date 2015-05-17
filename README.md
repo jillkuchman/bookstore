@@ -13,6 +13,8 @@ fictional bookstore.  There is a reviewer role, a custom content type "Book Revi
 and a simple custom block view.  This site was built as an exercise in Drupal
 Interface development.
 
+A live version of this site can be found here: <a href="http://dev-adas-technical-books.pantheon.io/">http://dev-adas-technical-books.pantheon.io/</a>
+
 ###Usernames and Passwords
 DATABASE>>
 ```
